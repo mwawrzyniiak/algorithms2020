@@ -4,8 +4,8 @@ solution of preparatory tasks for algorithms related competitions
 # pot
 algorithm that gets the last digits of the exponentiation
 # sto
-the algorithm calculates the maximum number of chairs that can be put under the table
-AxB - table dimensions
-KxK - chair dimensions
-A, B, K > 1 
-A, B, K < 500.000.000
+the algorithm calculates the maximum number of chairs that can be put under the table.  
+AxB - table dimensions  
+KxK - chair dimensions  
+A, B, K > 1  
+A, B, K < 500.000.000  
