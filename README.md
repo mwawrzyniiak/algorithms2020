@@ -9,7 +9,7 @@ AxB - table dimensions
 KxK - chair dimensions  
 A, B, K > 1  
 A, B, K < 500.000.000 
-by: Szymon Acedański.
+by: Szymon Acedański.  
 # czy
 while n > 1
   if n mod 2 = 0 then
@@ -17,4 +17,4 @@ while n > 1
   else
     n:=3*n+3
  if the program stops, the program should write yes, otherwise no
- by: Jakub Łącki.
+ by: Jakub Łącki.  
