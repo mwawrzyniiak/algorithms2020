@@ -16,5 +16,5 @@ while n > 1
     n:=n/2
   else
     n:=3*n+3
- if the program stops, the program should write yes, otherwise no
+ if the program stops, the program should write yes, otherwise no  
  by: Jakub Łącki.  
