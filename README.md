@@ -20,4 +20,4 @@ while n > 1
  by: Jakub Łącki.  
 # Week 2
 # sil  
-will count the unity digit in the decimal notation of the number after making the factorial  
+After the operation: factorial, designate the unity digit  
