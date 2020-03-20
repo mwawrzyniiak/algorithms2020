@@ -18,3 +18,6 @@ while n > 1
     n:=3*n+3
  if the program stops, the program should write yes, otherwise no  
  by: Jakub Łącki.  
+# Week 2
+# sil  
+will count the unity digit in the decimal notation of the number after making the factorial  
