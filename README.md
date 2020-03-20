@@ -21,3 +21,6 @@ while n > 1
 # Week 2
 # sil  
 After the operation: factorial, designate the unity digit  
+# pro  
+how many rectangles can be arranged from the squares given at the entrance. Rectangles must be unique  
+by: Jakub Radoszewski.  
