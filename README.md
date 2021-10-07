@@ -24,3 +24,5 @@ After the operation: factorial, designate the unity digit
 # pro  
 how many rectangles can be arranged from the squares given at the entrance. Rectangles must be unique  
 by: Jakub Radoszewski.  
+# RNO_DOD
+https://pl.spoj.com/problems/RNO_DOD/
