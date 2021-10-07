@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+#extra
+*.suo
+*.db
+*.json
+*.sqlite
+*.db-shm
+*.db-wal
+*.opendb
