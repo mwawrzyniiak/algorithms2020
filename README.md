@@ -26,3 +26,5 @@ how many rectangles can be arranged from the squares given at the entrance. Rect
 by: Jakub Radoszewski.  
 # RNO_DOD
 https://pl.spoj.com/problems/RNO_DOD/
+# VSR
+https://pl.spoj.com/problems/VSR/
