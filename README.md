@@ -28,3 +28,5 @@ by: Jakub Radoszewski.
 https://pl.spoj.com/problems/RNO_DOD/
 # VSR
 https://pl.spoj.com/problems/VSR/
+# FCTRL3 
+https://pl.spoj.com/problems/FCTRL3/
