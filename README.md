@@ -30,3 +30,5 @@ https://pl.spoj.com/problems/RNO_DOD/
 https://pl.spoj.com/problems/VSR/
 # FCTRL3 
 https://pl.spoj.com/problems/FCTRL3/
+# PP0501A - NWD
+https://pl.spoj.com/problems/PP0501A/
