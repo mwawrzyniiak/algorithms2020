@@ -42,3 +42,6 @@ https://pl.spoj.com/problems/PP0502B/
 # POTSAM - easy
 The program calculates the number of seats on the plane. The sum consists of business and economic places.  
 https://pl.spoj.com/problems/POTSAM/
+# PRZEDSZK - NWW - easy
+How many candies must the preschooler bring. The kindergarten teacher does not know which of the two groups she will be leading. The kindergarten teacher has to give out all the candies.  
+https://pl.spoj.com/problems/PRZEDSZK/
