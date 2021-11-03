@@ -31,14 +31,14 @@ https://pl.spoj.com/problems/VSR/
 # FCTRL3 - easy
 https://pl.spoj.com/problems/FCTRL3/
 # PP0501A - NWD - easy
-Write a function that computes the greatest common divisor
+Write a function that computes the greatest common divisor.  
 https://pl.spoj.com/problems/PP0501A/
 # KC001 - easy
-Write a program that computes the sum of three integers.
+Write a program that computes the sum of three integers.  
 https://pl.spoj.com/problems/KC001/
 # PP0502B - easy
-Reverse the order of the elements in the array.
+Reverse the order of the elements in the array.  
 https://pl.spoj.com/problems/PP0502B/
 # POTSAM - easy
-The program calculates the number of seats on the plane. The sum consists of business and economic places.
+The program calculates the number of seats on the plane. The sum consists of business and economic places.  
 https://pl.spoj.com/problems/POTSAM/
