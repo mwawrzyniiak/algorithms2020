@@ -45,3 +45,6 @@ https://pl.spoj.com/problems/POTSAM/
 # PRZEDSZK - NWW - easy
 How many candies must the preschooler bring. The kindergarten teacher does not know which of the two groups she will be leading. The kindergarten teacher has to give out all the candies.  
 https://pl.spoj.com/problems/PRZEDSZK/
+# MWPZ06X - easy
+Area of the square with the given side  
+https://pl.spoj.com/problems/MWPZ06X/
