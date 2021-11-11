@@ -47,4 +47,7 @@ How many candies must the preschooler bring. The kindergarten teacher does not k
 https://pl.spoj.com/problems/PRZEDSZK/
 # MWPZ06X - easy
 Area of the square with the given side  
-https://pl.spoj.com/problems/MWPZ06X/
+https://pl.spoj.com/problems/MWPZ06X/  
+# CALC - easy
+Program that allows addition, subtraction, multiplication, division, modulo operations  
+https://pl.spoj.com/problems/CALC/  
