@@ -53,4 +53,7 @@ Program that allows addition, subtraction, multiplication, division, modulo oper
 https://pl.spoj.com/problems/CALC/  
 # SUMA - easy
 The program returns the sum to the i element  
-https://pl.spoj.com/problems/SUMA/
+https://pl.spoj.com/problems/SUMA/  
+# PTROL - easy
+A program that shifts the elements of an array to the left  
+https://pl.spoj.com/problems/PTROL/  
