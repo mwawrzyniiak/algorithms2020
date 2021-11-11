@@ -51,3 +51,6 @@ https://pl.spoj.com/problems/MWPZ06X/
 # CALC - easy
 Program that allows addition, subtraction, multiplication, division, modulo operations  
 https://pl.spoj.com/problems/CALC/  
+# SUMA - easy
+The program returns the sum to the i element  
+https://pl.spoj.com/problems/SUMA/
